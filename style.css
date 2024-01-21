@@ -180,7 +180,7 @@
   /* ...........background image,,,,,,,,, */
 
   .hero-section{
-    background-image: url("sell-on-amazon.jpg");
+    background-image: url("./images/sell-on-amazon.jpg");
     background-size: cover;
     width: 95.2rem;
     height: 550px;
